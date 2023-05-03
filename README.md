@@ -45,8 +45,8 @@
 ### Lviv Polytechnic National University Nov 2017 - Now 2018
 *Position: Junior researcher*
 Duties:
-● Worked well both independently and in teams.
-● Utilized a strong working knowledge of engineering and science.
+ - Worked well both independently and in teams.
+ - Utilized a strong working knowledge of engineering and science.
 
 ### Web Help (Norwegian Air Shuttle) Jun 2019 - Now 2019
 *Position: Customer Support Specialist*
