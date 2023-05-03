@@ -51,52 +51,52 @@ Duties:
 ### Web Help (Norwegian Air Shuttle) Jun 2019 - Now 2019
 *Position: Customer Support Specialist*
 Duties:
-● Served as a friendly, hardworking, and punctual employee.
-● Helped to solve the problems effectively and in time.
+ - Served as a friendly, hardworking, and punctual employee.
+ -  Helped to solve the problems effectively and in time.
 
 ### GeeksForLess Mar 2020 - Jun 2021
 *Position: NOC Agent*
 Duties:
-● Provide timely response to all incidents, outages, and performance alerts. Categorize issues for escalation to appropriate technical teams;
-● Collect and review performance reports for various systems, and report trends in hardware and application performance to assist senior technical personnel to predict future issues or outages;
-● Monitor a wide variety of information and network systems that include LAN/WAN systems, switches, firewalls, servers, backup, and operating;
-● Perform basic systems testing and operational tasks (installation of patches, network connect)
-● Support technical team in 24 x 7 environment operational environments with high uptime requirements.
-● Mail Abuse agent responsibilities: Troubleshooting of emailing issues, finding and preventing SPAM. Finding and preventing Security Threats;
-● Monitoring network and VMs;
-● Issues escalation and resolution control;
-● Monitor for network state abnormalities using monitoring software like Nagios;
-● Correlate reported issues with alerts from monitoring tools;
-● Minor administration and service issues triage;
+ - Provide timely response to all incidents, outages, and performance alerts. Categorize issues for escalation to appropriate technical teams;
+ - Collect and review performance reports for various systems, and report trends in hardware and application performance to assist senior technical personnel to predict future issues or outages;
+ - Monitor a wide variety of information and network systems that include LAN/WAN systems, switches, firewalls, servers, backup, and operating;
+ - Perform basic systems testing and operational tasks (installation of patches, network connect)
+ - Support technical team in 24 x 7 environment operational environments with high uptime requirements.
+ - Mail Abuse agent responsibilities: Troubleshooting of emailing issues, finding and preventing SPAM. Finding and preventing Security Threats;
+ - Monitoring network and VMs;
+ - Issues escalation and resolution control;
+ - Monitor for network state abnormalities using monitoring software like Nagios;
+ - Correlate reported issues with alerts from monitoring tools;
+ - Minor administration and service issues triage;
 
 *Position: Technical Support Engineer*
 Duties:
-● Take ownership of customer issues that have been reported and see problems through to resolution;
-● Troubleshoot and identify solutions to resolve customer issues related to networking and security software and hardware;
-● Hands-on experience with network devices and network architectures (firewalls, routers, load balancer);
-● Experience with leading network security vendors, such as CISCO, Palo Alto, Fortigate.
-● Follow standard procedure for proper escalation of unsolved issues to the appropriate internal teams.
+ - Take ownership of customer issues that have been reported and see problems through to resolution;
+ - Troubleshoot and identify solutions to resolve customer issues related to networking and security software and hardware;
+ - Hands-on experience with network devices and network architectures (firewalls, routers, load balancer);
+ - Experience with leading network security vendors, such as CISCO, Palo Alto, Fortigate.
+ - Follow standard procedure for proper escalation of unsolved issues to the appropriate internal teams.
 
 ### InCountry Jun 2021 - Jan 2023
 *Position: Middle NOC/SOC engineer*
 Duties:
-● Response to all incidents, outages, and performance alerts.
-● Support technical team in 24 x 7 environment operational environments with high uptime requirements.
-● Reports for various systems, and reports trends in hardware and application performance to predict future issues or outages.
-● Monitor for network state abnormalities using monitoring software like Zabbix, Grafana, Kibana.
-● Correlate reported issues with alerts from monitoring tools and minor administration and first-level fix service issues.
-● Perform typical SysAdmins and DevOps tasks.
+ - Response to all incidents, outages, and performance alerts.
+ - Support technical team in 24 x 7 environment operational environments with high uptime requirements.
+ - Reports for various systems, and reports trends in hardware and application performance to predict future issues or outages.
+ - Monitor for network state abnormalities using monitoring software like Zabbix, Grafana, Kibana.
+ - Correlate reported issues with alerts from monitoring tools and minor administration and first-level fix service issues.
+ - Perform typical SysAdmins and DevOps tasks.
 
 *Position: Junior Security Operational Engineer*
 Duties:
-● Experience with tuning analytics of security-related data such as Wazuh, Splunk, ThreatStack;
-● Assissts in incidents investigation and remediation activitie;
-● Provides security assessment of internal tools, systems, and applications;
+ - Experience with tuning analytics of security-related data such as Wazuh, Splunk, ThreatStack;
+ - Assissts in incidents investigation and remediation activitie;
+ - Provides security assessment of internal tools, systems, and applications;
 
 
 ### Solidgate Jan 2023 - Present
 *Position: Middle Information Security Engineer*
 Duties:
-● Responsible for maintaining and building secure procedures over all environments, provisioning of the access and making sure, our infrastructure is secure
-● Troubleshooting of security issues, finding and preventing Security Threats;
-● Security issue assessment and solution provision;
+ - Responsible for maintaining and building secure procedures over all environments, provisioning of the access and making sure, our infrastructure is secure
+ - Troubleshooting of security issues, finding and preventing Security Threats;
+ - Security issue assessment and solution provision;
