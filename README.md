@@ -2,16 +2,27 @@
 
 ## HIGHLIGHTS
 ● 3+ years of general IT experience;
+
 ● Current possition: Information Security Engineer;
+
 ● Advanced search and elimination of complex hardware and software problems;
+
 ● Experience of working with the operating systems such as Windows, Linux;
+
 ● Experience of working with Jira and Confluence;
+
 ● Experience of working with Nagios, OpsGenie, Zabbix, Grafana, Kibana;
+
 ● Knowledge of networking;
+
 ● High problem solving and analytical skills;
+
 ● Basic experience of working with AWS, AliCloud;
+
 ● Experience of working with Ansible, Terraform;
+
 ● Experience of tuning analytics of security-related data such as Wazuh, Splunk, ThreatStack
+
 
 ## EDUCATION
 |              University                |                                         Degree                                      |         Date       |
